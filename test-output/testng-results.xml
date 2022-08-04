@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-21T15:03:48 IST" name="Default suite" finished-at="2022-07-21T15:05:04 IST" duration-ms="75998">
+    <groups>
+    </groups>
+    <test started-at="2022-07-21T15:03:48 IST" name="Default test" finished-at="2022-07-21T15:05:04 IST" duration-ms="75998">
+      <class name="Basics">
+        <test-method signature="arrayPractice()[pri:0, instance:Basics@fa49800]" started-at="2022-07-21T15:03:48 IST" name="arrayPractice" finished-at="2022-07-21T15:05:04 IST" duration-ms="75917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- arrayPractice -->
+        <test-method signature="stringPractice()[pri:0, instance:Basics@fa49800]" started-at="2022-07-21T15:05:04 IST" name="stringPractice" finished-at="2022-07-21T15:05:04 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stringPractice -->
+      </class> <!-- Basics -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
